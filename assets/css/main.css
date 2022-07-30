@@ -1,0 +1,15 @@
+footer{
+	width: 100%;
+	line-height: 5px;
+	position: relative;
+	bottom:0px;
+	background-color: rgba(0, 0, 0, 0.8);
+}
+
+.vl {
+	border-left: 4px solid #ccc;
+	height: 450px;
+	float:right;
+	margin-right: 20px;
+ }
+
